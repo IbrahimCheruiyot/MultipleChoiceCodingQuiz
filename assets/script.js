@@ -65,7 +65,7 @@ const questions = [ // array of objects
         // 2nd question
         question: "The condition in an if / else statement is enclosed within ____.",
         answers: ["1. quotes", "2. curly brackets", "3. parenthesis", "4. square brackets"],
-        correctAnswer: "1"
+        correctAnswer: "1" 
     },
     {
         // 3rd question
