@@ -57,7 +57,7 @@ const questions = [ // array of objects
     {
 
         // question 0
-        question: "Commonly used data types do NOT include:",
+        question: "Commonly used data type DO NOT INCLUDE:",
         answers: ["1. strings", "2. booleans", "3. alerts", "4. numbers"],
         correctAnswer: "2"
     },
