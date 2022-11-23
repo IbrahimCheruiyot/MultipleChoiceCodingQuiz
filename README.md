@@ -7,8 +7,6 @@ Multiple choice coding quiz to see someones coding knowledge
 
 The following technologies are used: HTML, CSS, Javascript
 
-Contact: 415-555-5555 
-
 ## Acceptance Criteria
 
 ```
